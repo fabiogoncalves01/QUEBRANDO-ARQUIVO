@@ -1,0 +1,2 @@
+# QUEBRANDO-ARQUIVO
+ Este código automatiza a organização de horários de instrutores a partir de uma planilha Excel. Ele lê os dados, cria ou atualiza abas separadas para cada instrutor e preenche as informações de "Data", "Horário de Início", "Horário de Fim" e "Turma". Se uma aba já existir para o instrutor, o código adiciona os novos dados sem duplicar abas, garantindo uma estrutura organizada e fácil de gerenciar.
